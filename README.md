@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHAPIBUNNY
 - 👀 I’m interested in API, Data Modelling and Integration processes
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently studying my BsC.Data Science
 - 💞️ I’m looking to collaborate on utlitiy design focussed on streamlining data modelling processes
 - 📫 How to reach me charl@cloudzen-marketing.com
 - 😄 Pronouns: He/Him
