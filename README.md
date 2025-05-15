@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @CHAPIBUNNY
-- 👀 I’m interested in API, Data Modelling and Integration processes
-- 🌱 I’m currently studying my BsC.Data Science
+- 👋 Hi, I’m @Charl
+- 👀 I’m interested in API, Algorithmic trading methodologies, Data Modelling and Integration processes
+- 🌱 BsC.Data Science
 - 💞️ I’m looking to collaborate on utlitiy design focussed on streamlining data modelling processes
-- 📫 How to reach me charl@cloudzen-marketing.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me trades@rabitaitrades.com
 - ⚡ Fun fact: Chess obsessed
 
 <!---
